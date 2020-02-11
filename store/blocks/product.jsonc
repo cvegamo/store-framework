@@ -33,6 +33,7 @@
       "preventVerticalStretch":true
     }
   },
+  
   "product-price":{
     "props": {
       "showSavings": true,
