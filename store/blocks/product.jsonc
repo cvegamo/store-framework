@@ -47,9 +47,7 @@
       "product-quantity"
     ]
   },
-  "shelf.relatedProducts":{
-
-  },
+  
   "stack-layout#brand": {
     "children": [
       "product-images",
