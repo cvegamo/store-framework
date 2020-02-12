@@ -20,7 +20,8 @@
       "search-fetch-more"
     ],
     "props":{
-      "search-fetch-more":"show-more"
+      "pagination": "show-more",
+      "preventRouteChange":true
     }
 
   }
