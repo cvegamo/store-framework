@@ -44,7 +44,7 @@
           "props":{
             "inverted": true,
             "sticky": true,
-            "fullWidt":false
+            "fullWidth":false
           }
       },
       "header-row#main-mobile": {
